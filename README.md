@@ -16,7 +16,7 @@ You'll see live BTC/USDT prices with simulated AI predictions every 60 seconds.
 | Part | Status |
 |------|--------|
 | Part 1 — How One Trade Works | ✅ Published |
-| Part 2 — Setup Your VPS and Run an AI Bot | 🚧 Coming soon |
+| Part 2 — Setup Your VPS and Run an AI Bot in 15 Minutes | ✅ Published |
 
 **Model training** begins in Part 5 — until then, predictions are simulated placeholders.
 
